@@ -353,7 +353,6 @@ const Form = (props) => {
             Total Person in Group
           </label>
           <div className="control">
-            {this.totalPersons}
             <input
               className="input"
               type="number"
